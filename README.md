@@ -1,6 +1,6 @@
 [![zouazrou's 42 stats](https://badge.mediaplus.ma/colorfulwaves/zouazrou)](https://github.com/oakoudad/badge42)
 
-- 🌱 I’m currently learning ** Backend, Java, DSA, Docker/Virtualization and Network Programming...**
+- 🌱 I’m currently learning **Backend, Java, DSA, Docker/Virtualization and Network Programming...**
 - 💬 Ask me about **C/C++ & Memory Management, SQL or anything [here](https://github.com/zouazrou/zouazrou/issues)**
 
 <br>
@@ -22,8 +22,8 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,c++,java,go,spring,sql,mysql" />
-  <img src="https://skillicons.dev/icons?i=docker,vs,vim,git" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,go,spring,mysql" />
+  <img src="https://skillicons.dev/icons?i=docker,vscode,vim,git" />
 </p>
 
 <hr>
