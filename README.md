@@ -16,5 +16,14 @@
     <img src="https://img.shields.io/badge/LeetCode-1e1f26?style=for-the-badge&logo=leetcode&logoColor=white" target="_blank" />
   </a>
 </div>
+<hr>
+
+## 🛠️ Languages and Tools
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,c++,java,go,spring,sql,mysql" />
+  <img src="https://skillicons.dev/icons?i=docker,vs,vim,git" />
+</p>
 
 <hr>
