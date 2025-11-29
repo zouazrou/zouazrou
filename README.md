@@ -1,7 +1,12 @@
-[![zouazrou's 42 stats](https://badge.mediaplus.ma/colorfulwaves/zouazrou)](https://github.com/oakoudad/badge42)
+# Hi there, I'm Zakaria Ouazrou 👋
+
+[![42 School](https://img.shields.io/badge/School-42-000000?style=for-the-badge&logo=42&logoColor=white)](https://42.fr)
+[![Campus](https://img.shields.io/badge/Campus-Rabat-000000?style=for-the-badge)](https://42.fr)
 
 - 🌱 I’m currently learning **Backend, Java, DSA, Docker/Virtualization and Network Programming...**
 - 💬 Ask me about **C/C++ & Memory Management, SQL or anything [here](https://github.com/zouazrou/zouazrou/issues)**
+[![zouazrou's 42 stats](https://badge.mediaplus.ma/colorfulwaves/zouazrou)](https://github.com/oakoudad/badge42)
+
 
 <br>
 
