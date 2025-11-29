@@ -4,7 +4,8 @@
 [![Campus Rabat](https://img.shields.io/badge/Campus-Rabat-000000?style=for-the-badge)](https://1337.ma)
 
 - 🌱 I’m currently learning **Backend, Java, DSA, Docker/Virtualization and Network Programming...**
-- 💬 Ask me about **C/C++ & Memory Management, SQL or anything [here](https://github.com/zouazrou/zouazrou/issues)**
+- 💬 Ask me about **C/C++ & Memory Management, SQL or anything [here](mailto:zakariawazrou@gmail.com)**
+  
 [![zouazrou's 42 stats](https://badge.mediaplus.ma/colorfulwaves/zouazrou)](https://github.com/oakoudad/badge42)
 
 
