@@ -1,7 +1,9 @@
 # Hi there, I'm Zakaria Ouazrou 👋
 
-[![42 School](https://img.shields.io/badge/School-42-000000?style=for-the-badge&logo=42&logoColor=white)](https://42.fr)
-[![Campus](https://img.shields.io/badge/Campus-Rabat-000000?style=for-the-badge)](https://42.fr)
+[![1337 School](https://img.shields.io/badge/School-1337-000000?style=for-the-badge&logo=42&logoColor=white)](https://1337.ma)
+[![Campus Rabat](https://img.shields.io/badge/Campus-Rabat-000000?style=for-the-badge)](https://1337.ma)
+
+[![UM6P Rabat](https://img.shields.io/badge/UM6P-Rabat-D4AF37?style=for-the-badge&logo=42&logoColor=black)](https://um6p.ma)
 
 - 🌱 I’m currently learning **Backend, Java, DSA, Docker/Virtualization and Network Programming...**
 - 💬 Ask me about **C/C++ & Memory Management, SQL or anything [here](https://github.com/zouazrou/zouazrou/issues)**
