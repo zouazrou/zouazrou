@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Backend, Java, DSA, Docker/Virtualization and Network Programming...**
 - 💬 Ask me about **C/C++ & Memory Management, SQL or anything [here](mailto:zakariawazrou@gmail.com)**
-  
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=zouazrou)
 [![zouazrou's 42 stats](https://badge.mediaplus.ma/colorfulwaves/zouazrou)](https://github.com/oakoudad/badge42)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/zouazrou?theme=dark&font=Kaisei%20HarunoUmi)
