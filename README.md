@@ -31,7 +31,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,go,spring,mysql" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,go,mysql" />
   <img src="https://skillicons.dev/icons?i=docker,vscode,vim,git" />
 </p>
 
