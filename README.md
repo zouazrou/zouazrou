@@ -3,7 +3,7 @@
 [![1337 School](https://img.shields.io/badge/School-1337-000000?style=for-the-badge&logo=42&logoColor=white)](https://1337.ma)
 [![Campus Rabat](https://img.shields.io/badge/Campus-Rabat-000000?style=for-the-badge)](https://1337.ma)
 
-- 🌱 I’m currently learning **Backend, Java, DSA, Docker/Virtualization and Network Programming...**
+- 🌱 I’m currently learning **Backend, Python, DSA, Docker/Virtualization and Network Programming...**
 - 💬 Ask me about **C/C++ & Memory Management, SQL or anything [here](mailto:zakariawazrou@gmail.com)**
 - 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=zouazrou)
